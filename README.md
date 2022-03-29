@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eralmual&label=Profile%20views&color=0e75b6&style=flat" alt="eralmual" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eralmual" alt="eralmual" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🤖 I’m currently working on [OneDNN support for ONNX Runtime](https://github.com/eralmual/onnxruntime)
 
