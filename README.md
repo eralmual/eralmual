@@ -10,8 +10,6 @@
 
 - 🏊‍♂️🚵‍♂️🏃‍♂️ On my spare time I **enjoy triathlon training**
 
-- 📚 I’m pursuing a **Master's degree in Embedded Systems**
-
 - 🌱 I’m currently learning **about graph neural networks**
 
 - 📝 I really like to write scientific papers, you can see some in [https://www.researchgate.net/profile/Erick-Munoz-Alvarado](https://www.researchgate.net/profile/Erick-Munoz-Alvarado)
