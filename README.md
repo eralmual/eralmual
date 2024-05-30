@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🤖 I’m currently working on [OneDNN support for ONNX Runtime](https://github.com/eralmual/onnxruntime)
+- 🤖 I’m currently working on [enabling the latest Intel features on ONNX Runtime](https://github.com/eralmual/onnxruntime)
 
 - 🏊‍♂️🚵‍♂️🏃‍♂️ On my spare time I **enjoy triathlon training**
 
