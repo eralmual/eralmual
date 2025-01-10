@@ -10,7 +10,7 @@
 
 - 🏊‍♂️🚵‍♂️🏃‍♂️ On my spare time I **enjoy triathlon training**
 
-- 🌱 I’m currently learning **about graph neural networks**
+- 🌱 I’m currently learning **GPU programming SYCL, CUDA, Triton**
 
 - 📝 I really like to write scientific papers, you can see some in [https://www.researchgate.net/profile/Erick-Munoz-Alvarado](https://www.researchgate.net/profile/Erick-Munoz-Alvarado)
 
